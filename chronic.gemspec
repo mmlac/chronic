@@ -2,7 +2,7 @@ $:.unshift File.expand_path('../lib', __FILE__)
 require 'chronic'
 
 Gem::Specification.new do |s|
-  s.name = 'chronic'
+  s.name = 'chronic-mmlac'
   s.version = Chronic::VERSION
   s.rubyforge_project = 'chronic'
   s.summary     = 'Natural language date/time parsing.'
